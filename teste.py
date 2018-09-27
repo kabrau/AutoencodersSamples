@@ -1,5 +1,11 @@
 ## https://blog.keras.io/building-autoencoders-in-keras.html
 ## https://ramhiser.com/post/2018-05-14-autoencoders-with-keras/
+## https://github.com/snatch59/keras-autoencoders
+## https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd
+## https://www.datacamp.com/community/tutorials/autoencoder-keras-tutorial
+
+## https://www.dlology.com/blog/how-to-do-unsupervised-clustering-with-keras/
+
 
 from keras.layers import Input, Dense
 from keras.models import Model
