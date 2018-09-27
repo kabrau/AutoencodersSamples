@@ -6,6 +6,9 @@
 
 ## https://www.dlology.com/blog/how-to-do-unsupervised-clustering-with-keras/
 
+## Freeze - fine-tune
+## https://www.learnopencv.com/keras-tutorial-fine-tuning-using-pre-trained-models/
+
 
 from keras.layers import Input, Dense
 from keras.models import Model
